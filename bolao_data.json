@@ -1,84 +1,69 @@
-<<<<<<< HEAD
 {
   "games": [
     {
       "id": 0,
       "dia": 11,
-      "pais1": "México",
-      "pais2": "África do Sul",
+      "pais1": "Mexico",
+      "pais2": "Africa do Sul",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Cesare": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Daiane": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Regis": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Kardec": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Laurita": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Alessandra": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         }
       }
     },
@@ -86,161 +71,133 @@
       "id": 1,
       "dia": 11,
       "pais1": "Coreia do Sul",
-      "pais2": "República Tcheca",
+      "pais2": "Republica Tcheca",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Julio": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Kardec": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         }
       }
     },
     {
       "id": 2,
       "dia": 12,
-      "pais1": "Canadá",
-      "pais2": "Bósnia-Herzegovina",
+      "pais1": "Canada",
+      "pais2": "Bosnia-Herzegovina",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Daiane": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Julio": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Stella": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Regis": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Laurita": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edson": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         }
       }
     },
@@ -250,159 +207,131 @@
       "pais1": "Estados Unidos",
       "pais2": "Paraguai",
       "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Cesare": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Daiane": {
           "g1": 0,
-          "g2": 4,
-          "pontos": 0
+          "g2": 4
         },
         "Julio": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Regis": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Kardec": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Fatima": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Laurita": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         }
       }
     },
     {
       "id": 4,
       "dia": 14,
-      "pais1": "Austrália",
+      "pais1": "Australia",
       "pais2": "Turquia",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Julio": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         },
         "Stella": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Regis": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Kardec": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Fatima": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Laurita": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         }
       }
     },
@@ -410,80 +339,66 @@
       "id": 5,
       "dia": 13,
       "pais1": "Qatar",
-      "pais2": "Suíça",
+      "pais2": "Suica",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Cesare": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Stella": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Regis": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         },
         "Kardec": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Laurita": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Edson": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Alessandra": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Marcelo": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         }
       }
     },
@@ -493,78 +408,64 @@
       "pais1": "Brasil",
       "pais2": "Marrocos",
       "is_brasil": true,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Cesare": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Stella": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Fatima": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
@@ -572,80 +473,66 @@
       "id": 7,
       "dia": 13,
       "pais1": "Haiti",
-      "pais2": "Escócia",
+      "pais2": "Escocia",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Daiane": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Stella": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Regis": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Kardec": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Fatima": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Laurita": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Edson": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         }
       }
     },
@@ -653,80 +540,66 @@
       "id": 8,
       "dia": 14,
       "pais1": "Alemanha",
-      "pais2": "Curaçao",
+      "pais2": "Curacao",
       "is_brasil": false,
-      "result_g1": 7,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Cesare": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Daiane": {
           "g1": 8,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Julio": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Stella": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Caravelas": {
           "g1": 5,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 5,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Kardec": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Fatima": {
           "g1": 5,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Edson": {
           "g1": 5,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Alessandra": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Marcelo": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         }
       }
     },
@@ -734,80 +607,66 @@
       "id": 9,
       "dia": 14,
       "pais1": "Holanda",
-      "pais2": "Japão",
+      "pais2": "Japao",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 2,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Cesare": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Daiane": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Julio": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 6
+          "g2": 2
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Stella": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Regis": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Kardec": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Fatima": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Laurita": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
@@ -817,159 +676,131 @@
       "pais1": "Costa do Marfim",
       "pais2": "Equador",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Julio": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Stella": {
           "g1": 2,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 4,
-          "pontos": 0
+          "g2": 4
         },
         "Regis": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Kardec": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 0,
-          "g2": 4,
-          "pontos": 0
+          "g2": 4
         },
         "Laurita": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         }
       }
     },
     {
       "id": 11,
       "dia": 14,
-      "pais1": "Suécia",
-      "pais2": "Tunísia",
+      "pais1": "Suecia",
+      "pais2": "Tunisia",
       "is_brasil": false,
-      "result_g1": 5,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Julio": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Stella": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Edson": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         }
       }
     },
@@ -979,483 +810,399 @@
       "pais1": "Espanha",
       "pais2": "Cabo Verde",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 5,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Julio": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Caravelas": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Regis": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Kardec": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Alessandra": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         }
       }
     },
     {
       "id": 13,
       "dia": 15,
-      "pais1": "Bélgica",
+      "pais1": "Belgica",
       "pais2": "Egito",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Daiane": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Stella": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Regis": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Kardec": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Laurita": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Marcelo": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
     {
       "id": 14,
       "dia": 15,
-      "pais1": "Arábia Saudita",
+      "pais1": "Arabia Saudita",
       "pais2": "Uruguai",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Cesare": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Daiane": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Julio": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Stella": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Regis": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Kardec": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Laurita": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 1
+          "g2": 3
         },
         "Edson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Alessandra": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Marcelo": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
     {
       "id": 15,
       "dia": 15,
-      "pais1": "Irã",
-      "pais2": "Nova Zelândia",
+      "pais1": "Iran",
+      "pais2": "Nova Zelandia",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 2,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 6
+          "g2": 2
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Stella": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Kardec": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Fatima": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         }
       }
     },
     {
       "id": 16,
       "dia": 17,
-      "pais1": "Áustria",
-      "pais2": "Jordânia",
+      "pais1": "Austria",
+      "pais2": "Jordania",
       "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Daiane": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Julio": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Stella": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Edson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         }
       }
     },
     {
       "id": 17,
       "dia": 16,
-      "pais1": "França",
+      "pais1": "Franca",
       "pais2": "Senegal",
       "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Cesare": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Daiane": {
           "g1": 4,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Julio": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Regis": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Kardec": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Fatima": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Laurita": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Edson": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         }
       }
     },
@@ -1465,78 +1212,64 @@
       "pais1": "Iraque",
       "pais2": "Noruega",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 4,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Cesare": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Julio": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Stella": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Regis": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Kardec": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Fatima": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Laurita": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Edson": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Marcelo": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         }
       }
     },
@@ -1544,80 +1277,66 @@
       "id": 19,
       "dia": 16,
       "pais1": "Argentina",
-      "pais2": "Argélia",
+      "pais2": "Argelia",
       "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Cesare": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Daiane": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Julio": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Kardec": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         }
       }
     },
@@ -1627,78 +1346,64 @@
       "pais1": "Portugal",
       "pais2": "Congo (RD)",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Cesare": {
           "g1": 4,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Julio": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Kardec": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Alessandra": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
@@ -1706,80 +1411,66 @@
       "id": 21,
       "dia": 17,
       "pais1": "Inglaterra",
-      "pais2": "Croácia",
+      "pais2": "Croacia",
       "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 2,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Daiane": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Stella": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Regis": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Laurita": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         }
       }
     },
@@ -1787,485 +1478,401 @@
       "id": 22,
       "dia": 17,
       "pais1": "Gana",
-      "pais2": "Panamá",
+      "pais2": "Panama",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Cesare": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Stella": {
           "g1": 4,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Regis": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Kardec": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Laurita": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Marcelo": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         }
       }
     },
     {
       "id": 23,
       "dia": 17,
-      "pais1": "Uzbequistão",
-      "pais2": "Colômbia",
+      "pais1": "Uzbequistao",
+      "pais2": "Colombia",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 3,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 6
+          "g2": 3
         },
         "Daiane": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Julio": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Stella": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Regis": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Kardec": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Fatima": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Laurita": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Alessandra": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Marcelo": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         }
       }
     },
     {
       "id": 24,
       "dia": 18,
-      "pais1": "República Tcheca",
-      "pais2": "África do Sul",
+      "pais1": "Republica Tcheca",
+      "pais2": "Africa do Sul",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Cesare": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Stella": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Regis": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Laurita": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         }
       }
     },
     {
       "id": 25,
       "dia": 18,
-      "pais1": "Suíça",
-      "pais2": "Bósnia-Herzegovina",
+      "pais1": "Suica",
+      "pais2": "Bosnia-Herzegovina",
       "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Cesare": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Edson": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 0
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
     {
       "id": 26,
       "dia": 18,
-      "pais1": "Canadá",
+      "pais1": "Canada",
       "pais2": "Qatar",
       "is_brasil": false,
-      "result_g1": 6,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Daiane": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Regis": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Kardec": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Fatima": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         }
       }
     },
     {
       "id": 27,
       "dia": 18,
-      "pais1": "México",
+      "pais1": "Mexico",
       "pais2": "Coreia do Sul",
       "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Cesare": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Daiane": {
           "g1": 3,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Stella": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Regis": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Kardec": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Fatima": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 1
+          "g2": 2
         },
         "Laurita": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         }
       }
     },
@@ -2275,78 +1882,64 @@
       "pais1": "Turquia",
       "pais2": "Paraguai",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Cesare": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Daiane": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Julio": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Regis": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Laurita": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
@@ -2354,161 +1947,133 @@
       "id": 29,
       "dia": 19,
       "pais1": "Estados Unidos",
-      "pais2": "Austrália",
+      "pais2": "Australia",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Cesare": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Daiane": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         },
         "Julio": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Regis": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Kardec": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Fatima": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Laurita": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         }
       }
     },
     {
       "id": 30,
       "dia": 19,
-      "pais1": "Escócia",
+      "pais1": "Escocia",
       "pais2": "Marrocos",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         },
         "Daiane": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Julio": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Edvaldo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Stella": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Caravelas": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Regis": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Kardec": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Laurita": {
           "g1": 0,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         }
       }
     },
@@ -2518,159 +2083,131 @@
       "pais1": "Brasil",
       "pais2": "Haiti",
       "is_brasil": true,
-      "result_g1": 3,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Cesare": {
           "g1": 4,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Daiane": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Julio": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Caravelas": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Regis": {
           "g1": 6,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Kardec": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Fatima": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 6
+          "g2": 0
         },
         "Edson": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 4,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Marcelo": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         }
       }
     },
     {
       "id": 32,
       "dia": 20,
-      "pais1": "Tunísia",
-      "pais2": "Japão",
+      "pais1": "Tunisia",
+      "pais2": "Japao",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 4,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Cesare": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Julio": {
           "g1": 0,
-          "g2": 3,
-          "pontos": 4
+          "g2": 3
         },
         "Edvaldo": {
           "g1": 0,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Stella": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Caravelas": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Regis": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         },
         "Kardec": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Fatima": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Laurita": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         },
         "Edson": {
           "g1": 0,
-          "g2": 2,
-          "pontos": 4
+          "g2": 2
         },
         "Alessandra": {
           "g1": 1,
-          "g2": 3,
-          "pontos": 3
+          "g2": 3
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 3
+          "g2": 2
         }
       }
     },
@@ -2678,80 +2215,66 @@
       "id": 33,
       "dia": 20,
       "pais1": "Holanda",
-      "pais2": "Suécia",
+      "pais2": "Suecia",
       "is_brasil": false,
-      "result_g1": 5,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Cesare": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Julio": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Regis": {
           "g1": 3,
-          "g2": 3,
-          "pontos": 0
+          "g2": 3
         },
         "Kardec": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Fatima": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Laurita": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Edson": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 1
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         },
         "Marcelo": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         }
       }
     },
@@ -2761,78 +2284,64 @@
       "pais1": "Alemanha",
       "pais2": "Costa do Marfim",
       "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 1,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Cesare": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Daiane": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Julio": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Caravelas": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 4
+          "g2": 1
         },
         "Kardec": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Fatima": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 3
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 6
+          "g2": 1
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Marcelo": {
           "g1": 1,
-          "g2": 2,
-          "pontos": 0
+          "g2": 2
         }
       }
     },
@@ -2840,80 +2349,66 @@
       "id": 35,
       "dia": 20,
       "pais1": "Equador",
-      "pais2": "Curaçao",
+      "pais2": "Curacao",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Julio": {
           "g1": 1,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Stella": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Caravelas": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Regis": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Kardec": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Marcelo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         }
       }
     },
@@ -2921,161 +2416,133 @@
       "id": 36,
       "dia": 21,
       "pais1": "Espanha",
-      "pais2": "Arábia Saudita",
+      "pais2": "Arabia Saudita",
       "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Cesare": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Daiane": {
           "g1": 1,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Julio": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Stella": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 3
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Regis": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Kardec": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Laurita": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Edson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Alessandra": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         },
         "Marcelo": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 4
+          "g2": 0
         }
       }
     },
     {
       "id": 37,
       "dia": 21,
-      "pais1": "Bélgica",
-      "pais2": "Irã",
+      "pais1": "Belgica",
+      "pais2": "Iran",
       "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
+      "result_g1": null,
+      "result_g2": null,
       "bets": {
         "Edmilson": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Cesare": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Daiane": {
           "g1": 2,
-          "g2": 4,
-          "pontos": 0
+          "g2": 4
         },
         "Julio": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Edvaldo": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Stella": {
           "g1": 3,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Caravelas": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Regis": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Kardec": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Fatima": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Laurita": {
           "g1": 2,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Edson": {
           "g1": 3,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         },
         "Alessandra": {
           "g1": 2,
-          "g2": 1,
-          "pontos": 0
+          "g2": 1
         },
         "Marcelo": {
           "g1": 4,
-          "g2": 0,
-          "pontos": 1
+          "g2": 0
         }
       }
     },
@@ -3149,7 +2616,7 @@
     {
       "id": 39,
       "dia": 21,
-      "pais1": "Nova Zelândia",
+      "pais1": "Nova Zelandia",
       "pais2": "Egito",
       "is_brasil": false,
       "result_g1": null,
@@ -3216,8 +2683,8 @@
     {
       "id": 40,
       "dia": 23,
-      "pais1": "Jordânia",
-      "pais2": "Argélia",
+      "pais1": "Jordania",
+      "pais2": "Argelia",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -3284,7 +2751,7 @@
       "id": 41,
       "dia": 22,
       "pais1": "Argentina",
-      "pais2": "Áustria",
+      "pais2": "Austria",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -3350,7 +2817,7 @@
     {
       "id": 42,
       "dia": 22,
-      "pais1": "França",
+      "pais1": "Franca",
       "pais2": "Iraque",
       "is_brasil": false,
       "result_g1": null,
@@ -3485,7 +2952,7 @@
       "id": 44,
       "dia": 23,
       "pais1": "Portugal",
-      "pais2": "Uzbequistão",
+      "pais2": "Uzbequistao",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -3618,8 +3085,8 @@
     {
       "id": 46,
       "dia": 23,
-      "pais1": "Panamá",
-      "pais2": "Croácia",
+      "pais1": "Panama",
+      "pais2": "Croacia",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -3685,7 +3152,7 @@
     {
       "id": 47,
       "dia": 23,
-      "pais1": "Colômbia",
+      "pais1": "Colombia",
       "pais2": "Congo (RD)",
       "is_brasil": false,
       "result_g1": null,
@@ -3752,8 +3219,8 @@
     {
       "id": 48,
       "dia": 24,
-      "pais1": "Suíça",
-      "pais2": "Canadá",
+      "pais1": "Suica",
+      "pais2": "Canada",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -3819,7 +3286,7 @@
     {
       "id": 49,
       "dia": 24,
-      "pais1": "Bósnia-Herzegovina",
+      "pais1": "Bosnia-Herzegovina",
       "pais2": "Qatar",
       "is_brasil": false,
       "result_g1": null,
@@ -3886,7 +3353,7 @@
     {
       "id": 50,
       "dia": 24,
-      "pais1": "Escócia",
+      "pais1": "Escocia",
       "pais2": "Brasil",
       "is_brasil": true,
       "result_g1": null,
@@ -4020,8 +3487,8 @@
     {
       "id": 52,
       "dia": 24,
-      "pais1": "República Tcheca",
-      "pais2": "México",
+      "pais1": "Republica Tcheca",
+      "pais2": "Mexico",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4087,7 +3554,7 @@
     {
       "id": 53,
       "dia": 24,
-      "pais1": "África do Sul",
+      "pais1": "Africa do Sul",
       "pais2": "Coreia do Sul",
       "is_brasil": false,
       "result_g1": null,
@@ -4154,7 +3621,7 @@
     {
       "id": 54,
       "dia": 25,
-      "pais1": "Curaçao",
+      "pais1": "Curacao",
       "pais2": "Costa do Marfim",
       "is_brasil": false,
       "result_g1": null,
@@ -4288,8 +3755,8 @@
     {
       "id": 56,
       "dia": 25,
-      "pais1": "Japão",
-      "pais2": "Suécia",
+      "pais1": "Japao",
+      "pais2": "Suecia",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4355,7 +3822,7 @@
     {
       "id": 57,
       "dia": 25,
-      "pais1": "Tunísia",
+      "pais1": "Tunisia",
       "pais2": "Holanda",
       "is_brasil": false,
       "result_g1": null,
@@ -4490,7 +3957,7 @@
       "id": 59,
       "dia": 25,
       "pais1": "Paraguai",
-      "pais2": "Austrália",
+      "pais2": "Australia",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4557,7 +4024,7 @@
       "id": 60,
       "dia": 26,
       "pais1": "Noruega",
-      "pais2": "França",
+      "pais2": "Franca",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4691,7 +4158,7 @@
       "id": 62,
       "dia": 26,
       "pais1": "Cabo Verde",
-      "pais2": "Arábia Saudita",
+      "pais2": "Arabia Saudita",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4825,7 +4292,7 @@
       "id": 64,
       "dia": 27,
       "pais1": "Egito",
-      "pais2": "Irã",
+      "pais2": "Iran",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4891,8 +4358,8 @@
     {
       "id": 65,
       "dia": 27,
-      "pais1": "Nova Zelândia",
-      "pais2": "Bélgica",
+      "pais1": "Nova Zelandia",
+      "pais2": "Belgica",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -4958,7 +4425,7 @@
     {
       "id": 66,
       "dia": 27,
-      "pais1": "Panamá",
+      "pais1": "Panama",
       "pais2": "Inglaterra",
       "is_brasil": false,
       "result_g1": null,
@@ -5025,7 +4492,7 @@
     {
       "id": 67,
       "dia": 27,
-      "pais1": "Croácia",
+      "pais1": "Croacia",
       "pais2": "Gana",
       "is_brasil": false,
       "result_g1": null,
@@ -5092,7 +4559,7 @@
     {
       "id": 68,
       "dia": 27,
-      "pais1": "Colômbia",
+      "pais1": "Colombia",
       "pais2": "Portugal",
       "is_brasil": false,
       "result_g1": null,
@@ -5160,7 +4627,7 @@
       "id": 69,
       "dia": 27,
       "pais1": "Congo (RD)",
-      "pais2": "Uzbequistão",
+      "pais2": "Uzbequistao",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -5226,8 +4693,8 @@
     {
       "id": 70,
       "dia": 27,
-      "pais1": "Argélia",
-      "pais2": "Áustria",
+      "pais1": "Argelia",
+      "pais2": "Austria",
       "is_brasil": false,
       "result_g1": null,
       "result_g2": null,
@@ -5293,7 +4760,7 @@
     {
       "id": 71,
       "dia": 27,
-      "pais1": "Jordânia",
+      "pais1": "Jordania",
       "pais2": "Argentina",
       "is_brasil": false,
       "result_g1": null,
@@ -5358,5365 +4825,4 @@
       }
     }
   ]
-=======
-{
-  "games": [
-    {
-      "id": 0,
-      "dia": 11,
-      "pais1": "México",
-      "pais2": "África do Sul",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 1,
-      "dia": 11,
-      "pais1": "Coreia do Sul",
-      "pais2": "República Tcheca",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 2,
-      "dia": 12,
-      "pais1": "Canadá",
-      "pais2": "Bósnia-Herzegovina",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        }
-      }
-    },
-    {
-      "id": 3,
-      "dia": 12,
-      "pais1": "Estados Unidos",
-      "pais2": "Paraguai",
-      "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 4,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 4,
-      "dia": 14,
-      "pais1": "Austrália",
-      "pais2": "Turquia",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 5,
-      "dia": 13,
-      "pais1": "Qatar",
-      "pais2": "Suíça",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 6,
-      "dia": 13,
-      "pais1": "Brasil",
-      "pais2": "Marrocos",
-      "is_brasil": true,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 7,
-      "dia": 13,
-      "pais1": "Haiti",
-      "pais2": "Escócia",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 8,
-      "dia": 14,
-      "pais1": "Alemanha",
-      "pais2": "Curaçao",
-      "is_brasil": false,
-      "result_g1": 7,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Daiane": {
-          "g1": 8,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 5,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 5,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 5,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 5,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 9,
-      "dia": 14,
-      "pais1": "Holanda",
-      "pais2": "Japão",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 2,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 6
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 10,
-      "dia": 14,
-      "pais1": "Costa do Marfim",
-      "pais2": "Equador",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 3,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 4,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 4,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 11,
-      "dia": 14,
-      "pais1": "Suécia",
-      "pais2": "Tunísia",
-      "is_brasil": false,
-      "result_g1": 5,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 12,
-      "dia": 15,
-      "pais1": "Espanha",
-      "pais2": "Cabo Verde",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 5,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 13,
-      "dia": 15,
-      "pais1": "Bélgica",
-      "pais2": "Egito",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 14,
-      "dia": 15,
-      "pais1": "Arábia Saudita",
-      "pais2": "Uruguai",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 15,
-      "dia": 15,
-      "pais1": "Irã",
-      "pais2": "Nova Zelândia",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 2,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 6
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 16,
-      "dia": 17,
-      "pais1": "Áustria",
-      "pais2": "Jordânia",
-      "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 17,
-      "dia": 16,
-      "pais1": "França",
-      "pais2": "Senegal",
-      "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Daiane": {
-          "g1": 4,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 18,
-      "dia": 16,
-      "pais1": "Iraque",
-      "pais2": "Noruega",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 4,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 19,
-      "dia": 16,
-      "pais1": "Argentina",
-      "pais2": "Argélia",
-      "is_brasil": false,
-      "result_g1": 3,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 20,
-      "dia": 17,
-      "pais1": "Portugal",
-      "pais2": "Congo (RD)",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 4,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 21,
-      "dia": 17,
-      "pais1": "Inglaterra",
-      "pais2": "Croácia",
-      "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 2,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 22,
-      "dia": 17,
-      "pais1": "Gana",
-      "pais2": "Panamá",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 4,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 23,
-      "dia": 17,
-      "pais1": "Uzbequistão",
-      "pais2": "Colômbia",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 3,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 6
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 24,
-      "dia": 18,
-      "pais1": "República Tcheca",
-      "pais2": "África do Sul",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 25,
-      "dia": 18,
-      "pais1": "Suíça",
-      "pais2": "Bósnia-Herzegovina",
-      "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 26,
-      "dia": 18,
-      "pais1": "Canadá",
-      "pais2": "Qatar",
-      "is_brasil": false,
-      "result_g1": 6,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 27,
-      "dia": 18,
-      "pais1": "México",
-      "pais2": "Coreia do Sul",
-      "is_brasil": false,
-      "result_g1": 1,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 28,
-      "dia": 19,
-      "pais1": "Turquia",
-      "pais2": "Paraguai",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 29,
-      "dia": 19,
-      "pais1": "Estados Unidos",
-      "pais2": "Austrália",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 30,
-      "dia": 19,
-      "pais1": "Escócia",
-      "pais2": "Marrocos",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 31,
-      "dia": 19,
-      "pais1": "Brasil",
-      "pais2": "Haiti",
-      "is_brasil": true,
-      "result_g1": 3,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Cesare": {
-          "g1": 4,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Edvaldo": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Regis": {
-          "g1": 6,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 6
-        },
-        "Edson": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 4,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 32,
-      "dia": 20,
-      "pais1": "Tunísia",
-      "pais2": "Japão",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 4,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 3,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 3
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 3,
-          "pontos": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 3
-        }
-      }
-    },
-    {
-      "id": 33,
-      "dia": 20,
-      "pais1": "Holanda",
-      "pais2": "Suécia",
-      "is_brasil": false,
-      "result_g1": 5,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 3,
-          "pontos": 0
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 2,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 34,
-      "dia": 20,
-      "pais1": "Alemanha",
-      "pais2": "Costa do Marfim",
-      "is_brasil": false,
-      "result_g1": 2,
-      "result_g2": 1,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 3
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 6
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2,
-          "pontos": 0
-        }
-      }
-    },
-    {
-      "id": 35,
-      "dia": 20,
-      "pais1": "Equador",
-      "pais2": "Curaçao",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edvaldo": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Caravelas": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 36,
-      "dia": 21,
-      "pais1": "Espanha",
-      "pais2": "Arábia Saudita",
-      "is_brasil": false,
-      "result_g1": 4,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 3
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 4
-        }
-      }
-    },
-    {
-      "id": 37,
-      "dia": 21,
-      "pais1": "Bélgica",
-      "pais2": "Irã",
-      "is_brasil": false,
-      "result_g1": 0,
-      "result_g2": 0,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 4,
-          "pontos": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0,
-          "pontos": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1,
-          "pontos": 0
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 0,
-          "pontos": 1
-        }
-      }
-    },
-    {
-      "id": 38,
-      "dia": 21,
-      "pais1": "Uruguai",
-      "pais2": "Cabo Verde",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 39,
-      "dia": 21,
-      "pais1": "Nova Zelândia",
-      "pais2": "Egito",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 40,
-      "dia": 23,
-      "pais1": "Jordânia",
-      "pais2": "Argélia",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 41,
-      "dia": 22,
-      "pais1": "Argentina",
-      "pais2": "Áustria",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 5,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 0
-        }
-      }
-    },
-    {
-      "id": 42,
-      "dia": 22,
-      "pais1": "França",
-      "pais2": "Iraque",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 0
-        }
-      }
-    },
-    {
-      "id": 43,
-      "dia": 22,
-      "pais1": "Noruega",
-      "pais2": "Senegal",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 44,
-      "dia": 23,
-      "pais1": "Portugal",
-      "pais2": "Uzbequistão",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 5,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 45,
-      "dia": 23,
-      "pais1": "Inglaterra",
-      "pais2": "Gana",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 46,
-      "dia": 23,
-      "pais1": "Panamá",
-      "pais2": "Croácia",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 4
-        }
-      }
-    },
-    {
-      "id": 47,
-      "dia": 23,
-      "pais1": "Colômbia",
-      "pais2": "Congo (RD)",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Caravelas": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 48,
-      "dia": 24,
-      "pais1": "Suíça",
-      "pais2": "Canadá",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 49,
-      "dia": 24,
-      "pais1": "Bósnia-Herzegovina",
-      "pais2": "Qatar",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 50,
-      "dia": 24,
-      "pais1": "Escócia",
-      "pais2": "Brasil",
-      "is_brasil": true,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 4
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 3
-        }
-      }
-    },
-    {
-      "id": 51,
-      "dia": 24,
-      "pais1": "Marrocos",
-      "pais2": "Haiti",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edvaldo": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 4,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 4,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 52,
-      "dia": 24,
-      "pais1": "República Tcheca",
-      "pais2": "México",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 53,
-      "dia": 24,
-      "pais1": "África do Sul",
-      "pais2": "Coreia do Sul",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 5,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 54,
-      "dia": 25,
-      "pais1": "Curaçao",
-      "pais2": "Costa do Marfim",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 55,
-      "dia": 25,
-      "pais1": "Equador",
-      "pais2": "Alemanha",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 6
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 56,
-      "dia": 25,
-      "pais1": "Japão",
-      "pais2": "Suécia",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Julio": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 57,
-      "dia": 25,
-      "pais1": "Tunísia",
-      "pais2": "Holanda",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 5
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 3
-        }
-      }
-    },
-    {
-      "id": 58,
-      "dia": 25,
-      "pais1": "Turquia",
-      "pais2": "Estados Unidos",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 3,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 59,
-      "dia": 25,
-      "pais1": "Paraguai",
-      "pais2": "Austrália",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 4,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 0
-        }
-      }
-    },
-    {
-      "id": 60,
-      "dia": 26,
-      "pais1": "Noruega",
-      "pais2": "França",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 4
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 61,
-      "dia": 26,
-      "pais1": "Senegal",
-      "pais2": "Iraque",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 1
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 0
-        }
-      }
-    },
-    {
-      "id": 62,
-      "dia": 26,
-      "pais1": "Cabo Verde",
-      "pais2": "Arábia Saudita",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 3,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 63,
-      "dia": 26,
-      "pais1": "Uruguai",
-      "pais2": "Espanha",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 64,
-      "dia": 27,
-      "pais1": "Egito",
-      "pais2": "Irã",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 0
-        }
-      }
-    },
-    {
-      "id": 65,
-      "dia": 27,
-      "pais1": "Nova Zelândia",
-      "pais2": "Bélgica",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 4
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 4
-        }
-      }
-    },
-    {
-      "id": 66,
-      "dia": 27,
-      "pais1": "Panamá",
-      "pais2": "Inglaterra",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 4
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 3
-        }
-      }
-    },
-    {
-      "id": 67,
-      "dia": 27,
-      "pais1": "Croácia",
-      "pais2": "Gana",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Kardec": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 68,
-      "dia": 27,
-      "pais1": "Colômbia",
-      "pais2": "Portugal",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Daiane": {
-          "g1": 4,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 2,
-          "g2": 2
-        },
-        "Caravelas": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 2,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 1,
-          "g2": 2
-        }
-      }
-    },
-    {
-      "id": 69,
-      "dia": 27,
-      "pais1": "Congo (RD)",
-      "pais2": "Uzbequistão",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Cesare": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Daiane": {
-          "g1": 3,
-          "g2": 3
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Stella": {
-          "g1": 3,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 70,
-      "dia": 27,
-      "pais1": "Argélia",
-      "pais2": "Áustria",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Daiane": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Julio": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Edvaldo": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 0
-        },
-        "Caravelas": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Regis": {
-          "g1": 0,
-          "g2": 0
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Fatima": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 1
-        },
-        "Edson": {
-          "g1": 1,
-          "g2": 1
-        },
-        "Alessandra": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Marcelo": {
-          "g1": 2,
-          "g2": 1
-        }
-      }
-    },
-    {
-      "id": 71,
-      "dia": 27,
-      "pais1": "Jordânia",
-      "pais2": "Argentina",
-      "is_brasil": false,
-      "result_g1": null,
-      "result_g2": null,
-      "bets": {
-        "Edmilson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Cesare": {
-          "g1": 1,
-          "g2": 5
-        },
-        "Daiane": {
-          "g1": 0,
-          "g2": 6
-        },
-        "Julio": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Edvaldo": {
-          "g1": 2,
-          "g2": 3
-        },
-        "Stella": {
-          "g1": 1,
-          "g2": 3
-        },
-        "Caravelas": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Regis": {
-          "g1": 1,
-          "g2": 2
-        },
-        "Kardec": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Fatima": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Laurita": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Edson": {
-          "g1": 0,
-          "g2": 2
-        },
-        "Alessandra": {
-          "g1": 0,
-          "g2": 3
-        },
-        "Marcelo": {
-          "g1": 0,
-          "g2": 2
-        }
-      }
-    }
-  ]
->>>>>>> c006fbff6efa65535a3b042eaeb28220c1787914
 }

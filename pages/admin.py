@@ -1,11 +1,12 @@
+# admin.py - removendo acentuações
 import streamlit as st
 from data import load_data, save_data
 from style import inject_style, show_header
 from data import atualizar_todos_os_pontos
 
 st.set_page_config(
-    page_title="Admin · Bolão Copa 2026",
-    page_icon="🔐",
+    page_title="Admin · Bolao Copa 2026",
+    page_icon=":lock:",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -18,7 +19,7 @@ if "admin_ok" not in st.session_state:
 
 if not st.session_state.admin_ok:
     show_header()
-    st.markdown("### 🔐 Área restrita")
+    st.markdown("### :lock: Area restrita")
     pwd = st.text_input("Senha de administrador", type="password")
     if st.button("Entrar", type="primary"):
         if pwd == "VemHexa2026":
@@ -30,11 +31,11 @@ if not st.session_state.admin_ok:
 
 # ── Admin content ────────────────────────────────────────────────────────────
 show_header()
-st.markdown("## 🔑 Administração — Resultados dos Jogos")
+st.markdown("## :key: Administracao — Resultados dos Jogos")
 
 col_logout, _ = st.columns([1, 5])
 with col_logout:
-    if st.button("🚪 Sair"):
+    if st.button(":door: Sair"):
         st.session_state.admin_ok = False
         st.rerun()
 
@@ -72,7 +73,7 @@ for day in sorted(days.keys()):
     if not filtered:
         continue
 
-    st.markdown(f"**📅 Dia {day} de junho**")
+    st.markdown(f"**:calendar: Dia {day} de junho**")
 
     for g in filtered:
         has_result = g["result_g1"] is not None
@@ -80,11 +81,11 @@ for day in sorted(days.keys()):
         cls = "is-brasil" if is_brasil else ("has-result" if has_result else "")
 
         if has_result:
-            score_html = f'<div class="score-box final">{g["result_g1"]} × {g["result_g2"]}</div>'
+            score_html = f'<div class="score-box final">{g["result_g1"]} x {g["result_g2"]}</div>'
         else:
-            score_html = '<div class="score-box">— × —</div>'
+            score_html = '<div class="score-box">— x —</div>'
 
-        brasil_flag = " 🇧🇷" if is_brasil else ""
+        brasil_flag = " :brazil:" if is_brasil else ""
         status_html = (
             "<small style='color:#198754;font-size:.75rem'>✓ resultado registrado</small>"
             if has_result else
@@ -101,7 +102,7 @@ for day in sorted(days.keys()):
         )
         st.markdown(card_html, unsafe_allow_html=True)
 
-        with st.expander(f"{'✏️ Editar resultado' if has_result else '➕ Registrar resultado'}: {g['pais1']} × {g['pais2']}", expanded=False):
+        with st.expander(f"{':pencil: Editar resultado' if has_result else ':heavy_plus_sign: Registrar resultado'}: {g['pais1']} x {g['pais2']}", expanded=False):
             ca, cb, cc = st.columns([2, 1, 2])
             with ca:
                 g1 = st.number_input(
@@ -110,7 +111,7 @@ for day in sorted(days.keys()):
                     key=f"g1_{g['id']}"
                 )
             with cb:
-                st.markdown("<br><div style='text-align:center;font-size:1.2rem;font-weight:700'>×</div>", unsafe_allow_html=True)
+                st.markdown("<br><div style='text-align:center;font-size:1.2rem;font-weight:700'>x</div>", unsafe_allow_html=True)
             with cc:
                 g2 = st.number_input(
                     g["pais2"], min_value=0, max_value=20,
@@ -119,16 +120,16 @@ for day in sorted(days.keys()):
                 )
             col_save, col_del = st.columns([1, 1])
             with col_save:
-                if st.button("💾 Salvar", key=f"save_{g['id']}", type="primary", use_container_width=True):
+                if st.button(":floppy_disk: Salvar", key=f"save_{g['id']}", type="primary", use_container_width=True):
                     data["games"][g["id"]]["result_g1"] = g1
                     data["games"][g["id"]]["result_g2"] = g2
                     atualizar_todos_os_pontos(data)
                     save_data(data)
-                    st.success(f"Resultado salvo: {g['pais1']} {g1} × {g2} {g['pais2']}")
+                    st.success(f"Resultado salvo: {g['pais1']} {g1} x {g2} {g['pais2']}")
                     st.rerun()
             with col_del:
                 if has_result:
-                    if st.button("🗑️ Limpar", key=f"del_{g['id']}", use_container_width=True):
+                    if st.button(":wastebasket: Limpar", key=f"del_{g['id']}", use_container_width=True):
                         data["games"][g["id"]]["result_g1"] = None
                         data["games"][g["id"]]["result_g2"] = None
                         atualizar_todos_os_pontos(data)

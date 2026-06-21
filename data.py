@@ -1,8 +1,10 @@
+# data.py - versão completamente corrigida
 import json
 import os
 from pathlib import Path
 
 DATA_FILE = Path(__file__).parent / "bolao_data.json"
+BACKUP_FILE = Path(__file__).parent / "bolao_data_backup.json"
 
 PARTICIPANTS = [
     "Edmilson", "Cesare", "Daiane", "Julio", "Edvaldo",
@@ -13,78 +15,78 @@ PARTICIPANTS = [
 BRASIL_TEAMS = {"Brasil"}
 
 GAMES_RAW = [
-    (11, "México", "África do Sul"),
-    (11, "Coreia do Sul", "República Tcheca"),
-    (12, "Canadá", "Bósnia-Herzegovina"),
+    (11, "Mexico", "Africa do Sul"),
+    (11, "Coreia do Sul", "Republica Tcheca"),
+    (12, "Canada", "Bosnia-Herzegovina"),
     (12, "Estados Unidos", "Paraguai"),
-    (14, "Austrália", "Turquia"),
-    (13, "Qatar", "Suíça"),
+    (14, "Australia", "Turquia"),
+    (13, "Qatar", "Suica"),
     (13, "Brasil", "Marrocos"),
-    (13, "Haiti", "Escócia"),
-    (14, "Alemanha", "Curaçao"),
-    (14, "Holanda", "Japão"),
+    (13, "Haiti", "Escocia"),
+    (14, "Alemanha", "Curacao"),
+    (14, "Holanda", "Japao"),
     (14, "Costa do Marfim", "Equador"),
-    (14, "Suécia", "Tunísia"),
+    (14, "Suecia", "Tunisia"),
     (15, "Espanha", "Cabo Verde"),
-    (15, "Bélgica", "Egito"),
-    (15, "Arábia Saudita", "Uruguai"),
-    (15, "Irã", "Nova Zelândia"),
-    (17, "Áustria", "Jordânia"),
-    (16, "França", "Senegal"),
+    (15, "Belgica", "Egito"),
+    (15, "Arabia Saudita", "Uruguai"),
+    (15, "Iran", "Nova Zelandia"),
+    (17, "Austria", "Jordania"),
+    (16, "Franca", "Senegal"),
     (16, "Iraque", "Noruega"),
-    (16, "Argentina", "Argélia"),
+    (16, "Argentina", "Argelia"),
     (17, "Portugal", "Congo (RD)"),
-    (17, "Inglaterra", "Croácia"),
-    (17, "Gana", "Panamá"),
-    (17, "Uzbequistão", "Colômbia"),
-    (18, "República Tcheca", "África do Sul"),
-    (18, "Suíça", "Bósnia-Herzegovina"),
-    (18, "Canadá", "Qatar"),
-    (18, "México", "Coreia do Sul"),
+    (17, "Inglaterra", "Croacia"),
+    (17, "Gana", "Panama"),
+    (17, "Uzbequistao", "Colombia"),
+    (18, "Republica Tcheca", "Africa do Sul"),
+    (18, "Suica", "Bosnia-Herzegovina"),
+    (18, "Canada", "Qatar"),
+    (18, "Mexico", "Coreia do Sul"),
     (19, "Turquia", "Paraguai"),
-    (19, "Estados Unidos", "Austrália"),
-    (19, "Escócia", "Marrocos"),
+    (19, "Estados Unidos", "Australia"),
+    (19, "Escocia", "Marrocos"),
     (19, "Brasil", "Haiti"),
-    (20, "Tunísia", "Japão"),
-    (20, "Holanda", "Suécia"),
+    (20, "Tunisia", "Japao"),
+    (20, "Holanda", "Suecia"),
     (20, "Alemanha", "Costa do Marfim"),
-    (20, "Equador", "Curaçao"),
-    (21, "Espanha", "Arábia Saudita"),
-    (21, "Bélgica", "Irã"),
+    (20, "Equador", "Curacao"),
+    (21, "Espanha", "Arabia Saudita"),
+    (21, "Belgica", "Iran"),
     (21, "Uruguai", "Cabo Verde"),
-    (21, "Nova Zelândia", "Egito"),
-    (23, "Jordânia", "Argélia"),
-    (22, "Argentina", "Áustria"),
-    (22, "França", "Iraque"),
+    (21, "Nova Zelandia", "Egito"),
+    (23, "Jordania", "Argelia"),
+    (22, "Argentina", "Austria"),
+    (22, "Franca", "Iraque"),
     (22, "Noruega", "Senegal"),
-    (23, "Portugal", "Uzbequistão"),
+    (23, "Portugal", "Uzbequistao"),
     (23, "Inglaterra", "Gana"),
-    (23, "Panamá", "Croácia"),
-    (23, "Colômbia", "Congo (RD)"),
-    (24, "Suíça", "Canadá"),
-    (24, "Bósnia-Herzegovina", "Qatar"),
-    (24, "Escócia", "Brasil"),
+    (23, "Panama", "Croacia"),
+    (23, "Colombia", "Congo (RD)"),
+    (24, "Suica", "Canada"),
+    (24, "Bosnia-Herzegovina", "Qatar"),
+    (24, "Escocia", "Brasil"),
     (24, "Marrocos", "Haiti"),
-    (24, "República Tcheca", "México"),
-    (24, "África do Sul", "Coreia do Sul"),
-    (25, "Curaçao", "Costa do Marfim"),
+    (24, "Republica Tcheca", "Mexico"),
+    (24, "Africa do Sul", "Coreia do Sul"),
+    (25, "Curacao", "Costa do Marfim"),
     (25, "Equador", "Alemanha"),
-    (25, "Japão", "Suécia"),
-    (25, "Tunísia", "Holanda"),
+    (25, "Japao", "Suecia"),
+    (25, "Tunisia", "Holanda"),
     (25, "Turquia", "Estados Unidos"),
-    (25, "Paraguai", "Austrália"),
-    (26, "Noruega", "França"),
+    (25, "Paraguai", "Australia"),
+    (26, "Noruega", "Franca"),
     (26, "Senegal", "Iraque"),
-    (26, "Cabo Verde", "Arábia Saudita"),
+    (26, "Cabo Verde", "Arabia Saudita"),
     (26, "Uruguai", "Espanha"),
-    (27, "Egito", "Irã"),
-    (27, "Nova Zelândia", "Bélgica"),
-    (27, "Panamá", "Inglaterra"),
-    (27, "Croácia", "Gana"),
-    (27, "Colômbia", "Portugal"),
-    (27, "Congo (RD)", "Uzbequistão"),
-    (27, "Argélia", "Áustria"),
-    (27, "Jordânia", "Argentina"),
+    (27, "Egito", "Iran"),
+    (27, "Nova Zelandia", "Belgica"),
+    (27, "Panama", "Inglaterra"),
+    (27, "Croacia", "Gana"),
+    (27, "Colombia", "Portugal"),
+    (27, "Congo (RD)", "Uzbequistao"),
+    (27, "Argelia", "Austria"),
+    (27, "Jordania", "Argentina"),
 ]
 
 BETS_RAW = {
@@ -105,11 +107,8 @@ BETS_RAW = {
 }
 
 
-def load_data():
-    if DATA_FILE.exists():
-        with open(DATA_FILE) as f:
-            return json.load(f)
-    # Initialize from spreadsheet bets, no results yet
+def criar_dados_padrao():
+    """Cria a estrutura de dados padrão (sem resultados)"""
     games = []
     for i, (dia, p1, p2) in enumerate(GAMES_RAW):
         is_brasil = "Brasil" in (p1, p2)
@@ -127,13 +126,54 @@ def load_data():
             "result_g2": None,
             "bets": bets,
         })
-    data = {"games": games}
-    save_data(data)
-    return data
+    return {"games": games}
+
+
+def load_data():
+    # Se o arquivo não existe, cria um novo
+    if not DATA_FILE.exists():
+        data = criar_dados_padrao()
+        save_data(data)
+        return data
+
+    # Tenta ler o arquivo existente
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (UnicodeDecodeError, json.JSONDecodeError) as e:
+        print(f"Erro ao ler arquivo: {e}")
+        
+        # Tenta fazer backup do arquivo corrompido
+        try:
+            import shutil
+            shutil.copy2(DATA_FILE, BACKUP_FILE)
+            print(f"Backup criado em: {BACKUP_FILE}")
+        except:
+            pass
+        
+        # Tenta ler com outros encodings
+        encodings = ['latin-1', 'cp1252', 'iso-8859-1']
+        for encoding in encodings:
+            try:
+                with open(DATA_FILE, "r", encoding=encoding) as f:
+                    data = json.load(f)
+                    # Salva novamente em UTF-8
+                    save_data(data)
+                    print(f"Arquivo recuperado com encoding {encoding}")
+                    return data
+            except (UnicodeDecodeError, json.JSONDecodeError):
+                continue
+        
+        # Se ainda falhar, cria um novo arquivo
+        print("Arquivo corrompido. Criando novo arquivo de dados...")
+        data = criar_dados_padrao()
+        save_data(data)
+        return data
 
 
 def save_data(data):
-    with open(DATA_FILE, "w") as f:
+    """Salva os dados em formato JSON com encoding UTF-8"""
+    with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
@@ -144,9 +184,9 @@ def calc_points(r1, r2, b1, b2, scoring=None):
     Regras:
     - 6 pontos: Acertou o vencedor E o placar de ambas as equipes (exato)
     - 4 pontos: Acertou o vencedor E o placar de apenas uma das equipes
-    - 3 pontos: Acertou o vencedor, mas não acertou o placar de nenhuma das equipes
-    - 1 ponto: Não acertou o vencedor, mas acertou o placar de uma das equipes
-    - 0 pontos: Não acertou nada
+    - 3 pontos: Acertou o vencedor, mas nao acertou o placar de nenhuma das equipes
+    - 1 ponto: Nao acertou o vencedor, mas acertou o placar de uma das equipes
+    - 0 pontos: Nao acertou nada
     """
     if r1 is None or r2 is None:
         return 0
@@ -180,22 +220,22 @@ def calc_points(r1, r2, b1, b2, scoring=None):
     if bw == rw and (acertou_g1 or acertou_g2):
         return scoring["one_goal_and_winner"]  # 4 pontos
 
-    # Caso 3: Acertou o vencedor, mas não acertou nenhum placar
+    # Caso 3: Acertou o vencedor, mas nao acertou nenhum placar
     if bw == rw:
         return scoring["winner_and_one_goal"]  # 3 pontos
 
-    # Caso 4: Não acertou o vencedor, mas acertou o placar de uma das equipes
+    # Caso 4: Nao acertou o vencedor, mas acertou o placar de uma das equipes
     if acertou_g1 or acertou_g2:
         return scoring["winner_only"]  # 1 ponto
 
-    # Caso 5: Não acertou nada
+    # Caso 5: Nao acertou nada
     return 0
 
 
 def atualizar_pontos_jogo(game, scoring=None):
     """
-    Recalcula e grava a pontuação de todos os participantes
-    dentro do próprio JSON do jogo.
+    Recalcula e grava a pontuacao de todos os participantes
+    dentro do proprio JSON do jogo.
     """
 
     r1 = game["result_g1"]
@@ -233,17 +273,17 @@ def atualizar_todos_os_pontos(data):
 
 def compute_standings(data):
     """
-    Calcula a classificação calculando os pontos em tempo real.
+    Calcula a classificacao calculando os pontos em tempo real.
     
-    Critérios de desempate (em ordem):
+    Criterios de desempate (em ordem):
     1. Maior quantidade de jogos com 6 pontos
     2. Maior quantidade de jogos com 4 pontos
     3. Maior quantidade de jogos com 3 pontos
-    4. Maior pontuação nos jogos do Brasil
-    5. Ordem alfabética (não influencia na classificação, apenas para consistência)
+    4. Maior pontuacao nos jogos do Brasil
+    5. Ordem alfabetica (nao influencia na classificacao, apenas para consistencia)
     
-    A posição é atribuída com base no ranking, e quando há empate em todos os critérios,
-    os participantes compartilham a mesma posição.
+    A posicao e atribuida com base no ranking, e quando ha empate em todos os criterios,
+    os participantes compartilham a mesma posicao.
     """
 
     results = {}
@@ -270,7 +310,7 @@ def compute_standings(data):
         r1 = game["result_g1"]
         r2 = game["result_g2"]
 
-        # Se não tem resultado, pula (não ganha pontos)
+        # Se nao tem resultado, pula (nao ganha pontos)
         if r1 is None or r2 is None:
             continue
 
@@ -312,32 +352,32 @@ def compute_standings(data):
             "brasil": r["brasil"]
         })
 
-    # Ordenação com os critérios de desempate
+    # Ordenacao com os criterios de desempate
     standings.sort(
         key=lambda x: (
-            -x["total"],      # 1. Maior pontuação total
+            -x["total"],      # 1. Maior pontuacao total
             -x["pts6"],       # 2. Mais jogos com 6 pontos
             -x["pts4"],       # 3. Mais jogos com 4 pontos
             -x["pts3"],       # 4. Mais jogos com 3 pontos
             -x["brasil"],     # 5. Mais pontos nos jogos do Brasil
-            x["name"]         # 6. Ordem alfabética (desempate final)
+            x["name"]         # 6. Ordem alfabetica (desempate final)
         )
     )
 
-    # Atribui as posições com empatados compartilhando a mesma posição
+    # Atribui as posicoes com empatados compartilhando a mesma posicao
     i = 0
     while i < len(standings):
-        # Define a posição atual (baseada em 1)
+        # Define a posicao atual (baseada em 1)
         posicao = i + 1
         
-        # Encontra o grupo de participantes com os mesmos critérios
+        # Encontra o grupo de participantes com os mesmos criterios
         j = i
         while j < len(standings) - 1:
-            # Verifica se o próximo participante tem os mesmos critérios
+            # Verifica se o proximo participante tem os mesmos criterios
             atual = standings[j]
             proximo = standings[j + 1]
             
-            # Compara todos os critérios de desempate
+            # Compara todos os criterios de desempate
             if (atual["total"] == proximo["total"] and
                 atual["pts6"] == proximo["pts6"] and
                 atual["pts4"] == proximo["pts4"] and
@@ -347,11 +387,11 @@ def compute_standings(data):
             else:
                 break
         
-        # Atribui a mesma posição para todo o grupo
+        # Atribui a mesma posicao para todo o grupo
         for k in range(i, j + 1):
             standings[k]["rank"] = posicao
         
-        # Move para o próximo grupo
+        # Move para o proximo grupo
         i = j + 1
 
     return standings

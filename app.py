@@ -1,10 +1,11 @@
+# app.py - removendo acentuações
 import streamlit as st
 from data import load_data, compute_standings, PARTICIPANTS, calc_points
 from style import inject_style, show_header
 
 st.set_page_config(
-    page_title="Bolão Copa 2026",
-    page_icon="⚽",
+    page_title="Bolao Copa 2026",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -21,10 +22,10 @@ scoring = data.get("scoring", {
     "winner_only": 1
 })
 # ── Tabs ─────────────────────────────────────────────────────────────────────
-tab_rank, tab_jogos, tab_palpites = st.tabs(["🏆  Classificação", "⚽  Jogos", "📋  Palpites"])
+tab_rank, tab_jogos, tab_palpites = st.tabs([":trophy:  Classificacao", ":soccer:  Jogos", ":clipboard:  Palpites"])
 
 # ══════════════════════════════════════════════════════════════════════════════
-# TAB 1 – CLASSIFICAÇÃO
+# TAB 1 – CLASSIFICACAO
 # ══════════════════════════════════════════════════════════════════════════════
 with tab_rank:
     standings = compute_standings(data)
@@ -38,7 +39,7 @@ with tab_rank:
         st.markdown(f'<div class="stat-card"><div class="stat-num">{total_games - played}</div><div class="stat-lbl">Jogos restantes</div></div>', unsafe_allow_html=True)
     with c3:
         leader_pts = standings[0]["total"] if standings else 0
-        st.markdown(f'<div class="stat-card"><div class="stat-num">{leader_pts}</div><div class="stat-lbl">Pontos do líder</div></div>', unsafe_allow_html=True)
+        st.markdown(f'<div class="stat-card"><div class="stat-num">{leader_pts}</div><div class="stat-lbl">Pontos do lider</div></div>', unsafe_allow_html=True)
     with c4:
         pct = int(played / total_games * 100) if total_games else 0
         st.markdown(f'<div class="stat-card"><div class="stat-num">{pct}%</div><div class="stat-lbl">Progresso</div></div>', unsafe_allow_html=True)
@@ -50,17 +51,17 @@ with tab_rank:
     rank_has_been_shown = False
     
     for i, s in enumerate(standings):
-        # Verifica se é um novo grupo de posição
+        # Verifica se e um novo grupo de posicao
         if s["rank"] != current_rank:
             current_rank = s["rank"]
             rank_has_been_shown = False
         
-        # Mostra a posição apenas se ainda não foi mostrada para este grupo
+        # Mostra a posicao apenas se ainda nao foi mostrada para este grupo
         if not rank_has_been_shown:
-            posicao = f"{s['rank']}º"
+            posicao = f"{s['rank']}o"
             rank_has_been_shown = True
         else:
-            posicao = ""  # Não mostra posição para participantes empatados
+            posicao = ""  # Nao mostra posicao para participantes empatados
         
         top_cls = "top3" if s["rank"] <= 3 else ""
         pts_html = f'<span class="pts-badge">{s["total"]}</span>'
@@ -109,9 +110,9 @@ with tab_rank:
         '</table>'
         '<br>'
         '<small style="color: #6c757d;">'
-        '⭐ Placar exato (6 pts) &nbsp;|&nbsp; 🎯 Um gol + vencedor (4 pts) &nbsp;|&nbsp; '
-        '✅ Vencedor + um gol (3 pts) &nbsp;|&nbsp; 👍 Só vencedor (1 pt) &nbsp;|&nbsp; '
-        '🇧🇷 Pontos em jogos do Brasil (desempate)'
+        ':star: Placar exato (6 pts) &nbsp;|&nbsp; :dart: Um gol + vencedor (4 pts) &nbsp;|&nbsp; '
+        ':white_check_mark: Vencedor + um gol (3 pts) &nbsp;|&nbsp; :thumbsup: So vencedor (1 pt) &nbsp;|&nbsp; '
+        ':brazil: Pontos em jogos do Brasil (desempate)'
         '</small>'
     )
     st.markdown(table_html, unsafe_allow_html=True)
@@ -159,7 +160,7 @@ with tab_jogos:
         if not filtered:
             continue
 
-        st.markdown(f"**📅 Dia {day} de junho**")
+        st.markdown(f"**:calendar: Dia {day} de junho**")
 
         for g in filtered:
             has_result = g["result_g1"] is not None
@@ -167,11 +168,11 @@ with tab_jogos:
             cls = "is-brasil" if is_brasil else ("has-result" if has_result else "")
 
             if has_result:
-                score_html = f'<div class="score-box final">{g["result_g1"]} × {g["result_g2"]}</div>'
+                score_html = f'<div class="score-box final">{g["result_g1"]} x {g["result_g2"]}</div>'
             else:
-                score_html = '<div class="score-box">— × —</div>'
+                score_html = '<div class="score-box">— x —</div>'
 
-            brasil_flag = " 🇧🇷" if is_brasil else ""
+            brasil_flag = " :brazil:" if is_brasil else ""
             status_html = (
                 "<small style='color:#198754;font-size:.75rem'>✓ resultado registrado</small>"
                 if has_result else
@@ -194,18 +195,18 @@ with tab_jogos:
 # TAB 3 – PALPITES
 # ══════════════════════════════════════════════════════════════════════════════
 with tab_palpites:
-    st.markdown("Veja os palpites de cada participante e a pontuação obtida até agora.")
+    st.markdown("Veja os palpites de cada participante e a pontuacao obtida ate agora.")
     
-    # Opção para escolher entre visualização individual ou todos os participantes
+    # Opcao para escolher entre visualizacao individual ou todos os participantes
     view_mode = st.radio(
-        "Modo de visualização",
+        "Modo de visualizacao",
         ["Participante individual", "Todos os participantes"],
         horizontal=True,
         key="view_mode"
     )
     
     if view_mode == "Participante individual":
-        # Modo individual (já existente)
+        # Modo individual (ja existente)
         col_p, col_g = st.columns([1, 2])
         with col_p:
             selected_p = st.selectbox("Participante", PARTICIPANTS, key="selected_participant")
@@ -241,19 +242,19 @@ with tab_palpites:
             total_pts += pts if pts else 0
 
             if has_result:
-                result_str = f"{g['result_g1']} × {g['result_g2']}"
+                result_str = f"{g['result_g1']} x {g['result_g2']}"
                 pts_cls = f"pts-{pts}" if pts is not None else "pts-0"
                 pts_lbl = f'<span class="pts-chip {pts_cls}">{pts} pt{"s" if pts != 1 else ""}</span>'
             else:
-                result_str = "— × —"
+                result_str = "— x —"
                 pts_lbl = '<span style="color:#aaa;font-size:.78rem">pendente</span>'
 
-            brasil_icon = " 🇧🇷" if g["is_brasil"] else ""
+            brasil_icon = " :brazil:" if g["is_brasil"] else ""
             rows_html += (
                 f'<div class="bet-row">'
                 f'<span style="width:28px;color:#aaa;font-size:.78rem">{g["id"]+1}</span>'
-                f'<span style="flex:1;font-size:.85rem">{g["pais1"]} × {g["pais2"]}{brasil_icon}</span>'
-                f'<span class="bet-score">{b1} × {b2}</span>'
+                f'<span style="flex:1;font-size:.85rem">{g["pais1"]} x {g["pais2"]}{brasil_icon}</span>'
+                f'<span class="bet-score">{b1} x {b2}</span>'
                 f'<span style="width:70px;text-align:center;font-size:.8rem;color:#6c757d">{result_str}</span>'
                 f'{pts_lbl}'
                 f'</div>'
@@ -319,12 +320,12 @@ with tab_palpites:
             if search and search.lower() not in g["pais1"].lower() and search.lower() not in g["pais2"].lower():
                 continue
         
-            # Número do jogo
+            # Numero do jogo
             row = f'<tr><td style="text-align:center;font-weight:600;color:#6c757d">{g["id"]+1}</td>'
         
             # Nome do jogo
-            brasil_icon = " 🇧🇷" if g["is_brasil"] else ""
-            row += f'<td style="font-weight:500;white-space:nowrap">{g["pais1"]} × {g["pais2"]}{brasil_icon}</td>'
+            brasil_icon = " :brazil:" if g["is_brasil"] else ""
+            row += f'<td style="font-weight:500;white-space:nowrap">{g["pais1"]} x {g["pais2"]}{brasil_icon}</td>'
           
             # Palpites de cada participante
             for p in PARTICIPANTS:
@@ -333,22 +334,22 @@ with tab_palpites:
             
                 if has_result:
                     pts = calc_points(g["result_g1"], g["result_g2"], b1, b2, scoring)
-                    pts_text = f'{b1}×{b2} <span style="font-size:.7rem;color:#6c757d">({pts}pts)</span>'
+                    pts_text = f'{b1}x{b2} <span style="font-size:.7rem;color:#6c757d">({pts}pts)</span>'
                 else:
-                    pts_text = f'{b1}×{b2}'
+                    pts_text = f'{b1}x{b2}'
             
                 row += f'<td style="text-align:center;font-size:.85rem;white-space:nowrap">{pts_text}</td>'
         
             # Resultado
             if has_result:
-                result_text = f'<span style="font-weight:700;color:#002776">{g["result_g1"]}×{g["result_g2"]}</span>'
+                result_text = f'<span style="font-weight:700;color:#002776">{g["result_g1"]}x{g["result_g2"]}</span>'
             else:
-                result_text = '<span style="color:#aaa">—×—</span>'
+                result_text = '<span style="color:#aaa">—x—</span>'
             row += f'<td style="text-align:center;font-weight:600;white-space:nowrap">{result_text}</td></tr>'
         
             table_rows += row
     
-        # Construir cabeçalho da tabela
+        # Construir cabecalho da tabela
         thead = '<thead><tr><th style="text-align:center;min-width:30px">#</th><th style="text-align:left;min-width:120px">Jogo</th>'
         for p in PARTICIPANTS:
             # Nome do participante com cor especial para o Brasil
@@ -378,8 +379,8 @@ with tab_palpites:
         # Legenda
         st.markdown(
             '<small style="color: #6c757d;">'
-            '📊 Cada célula mostra o palpite (Gols1×Gols2) e entre parênteses a pontuação obtida no jogo (apenas para jogos com resultado). '
-            'O cabeçalho da tabela permanece fixo durante a rolagem.'
+            ':bar_chart: Cada celula mostra o palpite (Gols1xGols2) e entre parenteses a pontuacao obtida no jogo (apenas para jogos com resultado). '
+            'O cabecalho da tabela permanece fixo durante a rolagem.'
             '</small>',
             unsafe_allow_html=True
         )

@@ -1,3 +1,4 @@
+# style.py - removendo acentuacoes (mantendo apenas CSS)
 import streamlit as st
 
 CSS = """
@@ -270,10 +271,10 @@ CSS = """
 
 HEADER = """
 <div class="bolao-header">
-  <div style="font-size:2.8rem">⚽</div>
+  <div style="font-size:2.8rem">:soccer:</div>
   <div>
-    <h1>BOLÃO COPA 2026</h1>
-    <p>Confraternização · 1ª Fase · 72 Jogos</p>
+    <h1>BOLAO COPA 2026</h1>
+    <p>Confraternizacao · 1a Fase · 72 Jogos</p>
   </div>
 </div>
 """
