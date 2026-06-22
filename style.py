@@ -271,7 +271,7 @@ CSS = """
 
 HEADER = """
 <div class="bolao-header">
-  <div style="font-size:2.8rem">:soccer:</div>
+  <div style="font-size:2.8rem"></div>
   <div>
     <h1>BOLAO COPA 2026</h1>
     <p>Confraternizacao · 1a Fase · 72 Jogos</p>
